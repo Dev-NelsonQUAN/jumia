@@ -187,5 +187,4 @@ font-weight: 100;
 display: flex;
 align-items: center;
 gap: 6px;
-  
 `
